@@ -133,7 +133,7 @@ SELECT '尚硅谷' as corporation, last_name FROM employees;
 DESCRIBE employees; 或DESC employees;
 ```
 
-![image-20220702111819013](images\image-20220702111819013.png)
+![image-20220702111819013](images/image-20220702111819013.png)
 
 各个字段含义的如下:
 
